@@ -2,3 +2,15 @@ __pycache__
 *.out
 .DS_Store
 node_modules/
+ch4-trees-and-graphs/mike/.spyproject/config/codestyle.ini
+ch4-trees-and-graphs/mike/.spyproject/config/defaults/defaults-codestyle-0.2.0.ini
+ch4-trees-and-graphs/mike/.spyproject/config/defaults/defaults-encoding-0.2.0.ini
+ch4-trees-and-graphs/mike/.spyproject/config/defaults/defaults-vcs-0.2.0.ini
+ch4-trees-and-graphs/mike/.spyproject/config/defaults/defaults-workspace-0.2.0.ini
+ch4-trees-and-graphs/mike/.spyproject/config/encoding.ini
+ch4-trees-and-graphs/mike/.spyproject/config/vcs.ini
+ch4-trees-and-graphs/mike/.spyproject/config/workspace.ini
+ch4-trees-and-graphs/mike/.spyproject/config/backups/workspace.ini.bak
+ch4-trees-and-graphs/mike/.spyproject/config/backups/vcs.ini.bak
+ch4-trees-and-graphs/mike/.spyproject/config/backups/encoding.ini.bak
+ch4-trees-and-graphs/mike/.spyproject/config/backups/codestyle.ini.bak
